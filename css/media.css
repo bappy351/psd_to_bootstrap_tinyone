@@ -64,6 +64,18 @@
         padding: 0 8px !important;
     }
 
+    .service {
+        padding: 30px 0;
+    }
+
+    .service_header p {
+        font-size: 15px;
+    }
+
+    .service_header {
+        margin-bottom: 30px;
+    }
+
 }
 
 

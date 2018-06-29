@@ -1,0 +1,221 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+
+    .header_nav ul li a {
+        text-align: right;
+        padding: 0 !important;
+    }
+    .banner {
+        padding-bottom: 50px;
+    }
+
+    .banner_content {
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .banner_content h1 {
+        font-size: 27px;
+        font-weight: bold;
+        padding-bottom: 12px;
+    }
+    .pera_1 {
+        font-size: 20px;
+    }
+    .pera_2 {
+        font-size: 15px;
+    }
+
+    .banner_img {
+        text-align: center;
+    }
+
+    .icon {
+        text-align: center;
+    }
+
+    .button_center {
+        text-align: center !important;
+        margin-top: 10px;
+    }
+
+    .footer_header p {
+        color: #898989;
+        font-size: 15px;
+    }
+
+    .footer_text {
+        font-size: 14px;
+        color: #ffffff;
+    }
+
+    .footer {
+        background-color: #010101;
+        padding-top: 45px;
+        padding-bottom: 55px;
+    }
+
+    .footer_logo {
+        padding: 30px 0 !important;
+    }
+
+    .footer_logo img {
+        padding: 0 8px !important;
+    }
+
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .header_nav ul li a {
+        text-align: right;
+        padding: 0 !important;
+    }
+
+    .banner {
+        padding-bottom: 50px;
+    }
+
+    .banner_content {
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .banner_content h1 {
+        font-size: 27px;
+        font-weight: bold;
+        padding-bottom: 12px;
+    }
+    .pera_1 {
+        font-size: 20px;
+    }
+    .pera_2 {
+        font-size: 15px;
+    }
+
+    .icon {
+        text-align: center;
+    }
+
+    .banner_img {
+        text-align: center;
+    }
+
+    .service {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+
+    .service_header {
+        margin-bottom: 60px;
+    }
+
+    .service_header p {
+        font-size: 16px;
+    }
+
+    .service_text p {
+        font-size: 12px;
+    }
+
+    .button_center {
+        text-align: center !important;
+        margin-top: 10px;
+    }
+
+    .footer_header p {
+        color: #898989;
+        font-size: 15px;
+    }
+
+    .footer_text {
+        font-size: 14px;
+        color: #ffffff;
+    }
+
+    .footer {
+        background-color: #010101;
+        padding-top: 45px;
+        padding-bottom: 55px;
+    }
+
+    .footer_logo {
+        padding: 30px 0 !important;
+    }
+
+    .footer_logo img {
+        padding: 0 8px !important;
+    }
+
+
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .header_nav ul li a {
+        padding: 30px 25px !important
+    }
+
+    .banner {
+        background-color: #fcdb00;
+        padding-bottom: 50px;
+    }
+
+    .banner_content {
+        padding: 20px 0px;
+    }
+
+    .banner_content h1 {
+        font-size: 27px;
+        font-weight: bold;
+        padding-bottom: 12px;
+    }
+    .pera_1 {
+        font-size: 20px;
+    }
+    .pera_2 {
+        font-size: 15px;
+    }
+
+    .ipad_margin {
+        margin-top: 30px;
+    }
+
+    .service {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+
+    .service_header {
+        margin-bottom: 60px;
+    }
+
+    .service_header p {
+        font-size: 16px;
+    }
+
+    .service_text p {
+        font-size: 12px;
+    }
+
+    .footer_header p {
+        color: #898989;
+        font-size: 15px;
+    }
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {}

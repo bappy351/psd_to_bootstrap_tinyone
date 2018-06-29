@@ -214,12 +214,20 @@ header {
     padding: 8px 0px;
 }
 
+.search_padding{
+    padding-top: 15px;
+}
+
 .footer_submit{
     background-color: #fcdb00;
     color: #010101 !important;
     font-weight: bold !important;
     border: none !important;
     padding: 8px 45px;
+}
+
+.footer_submit:hover{
+    background-color: #fcdb00;
 }
 
 .footer_logo{

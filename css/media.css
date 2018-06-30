@@ -16,19 +16,21 @@
     }
 
     .banner_content h1 {
-        font-size: 27px;
+        font-size: 25px;
         font-weight: bold;
         padding-bottom: 12px;
     }
     .pera_1 {
-        font-size: 20px;
+        font-size: 15px;
     }
     .pera_2 {
-        font-size: 15px;
+        font-size: 13px;
     }
 
     .banner_img {
         text-align: center;
+        width: 55%;
+        margin: 0 auto;
     }
 
     .icon {
@@ -54,6 +56,18 @@
         background-color: #010101;
         padding-top: 45px;
         padding-bottom: 55px;
+    }
+    
+    .footer_email {
+        padding: 6px 31px;
+    }
+    
+    .footer_submit {
+        background-color: #fcdb00;
+        color: #010101 !important;
+        font-weight: bold !important;
+        border: none !important;
+        padding: 6px 25px;
     }
 
     .footer_logo {
